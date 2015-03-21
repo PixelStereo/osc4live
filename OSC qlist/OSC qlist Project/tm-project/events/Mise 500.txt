@@ -1,0 +1,15 @@
+/vdmx /lfo.5/play 0;
+/vdmx /lfo.6/play 0;
+200;
+/vdmx /500 1;
+/vdmx /lfo/500 1;
+/vdmx /lfo.5/loopmode Loop;
+/vdmx /lfo.5/play 1;
+/vdmx /lfo.5/direction 0;
+/vdmx /lfo.5/time 0;
+/vdmx /lfo.5/rate 1;
+/vdmx /lfo.6/loopmode Loop;
+/vdmx /lfo.6/play 1;
+/vdmx /lfo.6/direction 0;
+/vdmx /lfo.6/time 0;
+/vdmx /lfo.6/rate 1;

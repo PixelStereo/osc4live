@@ -1,0 +1,10 @@
+/visca /visca.1/wd 1;
+/visca /visca.1/hr 1;
+/visca /visca.1/nr 1;
+/visca /visca.1/hs 1;
+/visca /visca.1/reverse 1;
+/visca /visca.1/flip 1;
+/visca /visca.1/freeze 1;
+/visca /visca.1/stabilizer 1;
+/visca /visca.1/fx neg art;
+/visca /visca.1/ir 1;
